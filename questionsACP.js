@@ -158,5 +158,13 @@ var questions = [
         "option3": "Respect the process",
         "option4": "Deliver value continuously",
         "answer": 3
+    },
+    {
+        "question": "Which of the following is not a form of frequent verification and validation?",
+        "option1": "Pair programming",
+        "option2": "Unit testing",
+        "option3": "Iteration demos",
+        "option4": "Iteration planning",
+        "answer": 3
     }
 ];
