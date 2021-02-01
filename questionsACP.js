@@ -318,5 +318,165 @@ var questions = [
         "option3": "A sophisticated scheduling tool",
         "option4": "A Gantt chart of spending over time",
         "answer": 1
+    },
+    {
+        "question": "Which of the following statements best describes the role of an agile project charter?",
+        "option1": "Forms the basis of the prioritized backlog and identifies the work to be completed by the project",
+        "option2": "Describes the threats and issues the project may encounter and describes mitigations strategies for avoidance",
+        "option3": "Defines the who, what, where, when, why, and how of the project and provides authority to proceed",
+        "option4": "Outlines the roles and responsibilities of the project stakeholders and identifies any third-party contractors",
+        "answer": 3
+    },
+    {
+        "question": "Agile’semphasis on two-way communication means that:",
+        "option1": "Distributed teams have to make an effort to communicate effectively.",
+        "option2": "Agile teams need to share knowledge as widely as possible.",
+        "option3": "The customer should solicit the delivery team’s ideas, risks, and concerns and take them seriously.",
+        "option4": "The stekholdersneed to be kept in the loop about the team’s progress.",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following statements about the quadrants of emotional intelligence is correct?",
+        "option1": "Self-management deals with influence.",
+        "option2": "Self-awareness deals with self-control.",
+        "option3": "Social skills deal with self-confidence.",
+        "option4": "Social awareness deals with empathy.",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is a brainstorming technique?",
+        "option1": "Quiet Writing",
+        "option2": "Decision spectrum",
+        "option3": "Fist-of-five voting",
+        "option4": "Participatory decisions",
+        "answer": 1
+    },
+    {
+        "question": "Agile knowledge sharing is designed to:",
+        "option1": "Make information available to anyone who might be interested",
+        "option2": "Leverage electronic tools",
+        "option3": "Maximize resource utilization",
+        "option4": "Generate stable specifications",
+        "answer": 1
+    },
+    {
+      "question": "Which of the following pieces of information are we least likely to find in an agile charter:",
+      "option1": "A list of who will b engaged on the project",
+      "option2": "A description of how the work will be done",
+      "option3": "An explanation of why the project is being done",
+      "option4": "A precise cost or time estimate for the project",
+      "answer": 4
+    },
+    {
+      "question": "Which of the circumstances outlined below would be a good fit for the use of personas?",
+      "option1": "When the conversation is centered on the high-level flow of a process",
+      "option2": "When we are trying to better understand stakeholder demographics and needs",
+      "option3": "When we need to capture the high-level objective of a specific requirement",
+      "option4": "When we want to communicate what features will be included in the next release",
+      "answer": 2
+    },
+    {
+      "question": "When comparing communication media, which of the following is true?",
+      "option1": "Paper-based communication has the lowest effectiveness and the highest richness.",
+      "option2": "Audio recordings have the highest effectiveness and the lowest richness.",
+      "option3": "E-mail has the highest effectiveness and the lowest richness.",
+      "option4": "Face-to-face communication has the highest effectiveness and highest richness",
+      "answer": 4
+    },
+    {
+      "question": "Your project team is in turmoil, and you’re trying to diagnose the level of the their conflict with another department. You notice that statements such as “Marketing has no clue again!”are becoming commonplace. What level of conflict would you say the team is experience?",
+      "option1": "Level 1",
+      "option2": "Level 2",
+      "option3": "Level 3",
+      "option4": "Level 4",
+      "answer": 3
+    },
+    {
+      "question": "High-visibility displays of the project information are called:",
+      "option1": "Project radar",
+      "option2": "Information refrigerators",
+      "option3": "Information radiators",
+      "option4": "Process distributors",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following isn’t a form of agile workshop?",
+      "option1": "The stakeholders gather to identify and define the user stories",
+      "option2": "The team gathers to reflect on their last iteration and identify issues and process changes.",
+      "option3": "The delivery team gathers to estimate the user stories for the next iteration.",
+      "option4": "The team gathers to share their progress yesterday, discuss what they will do today, and identify an impediments to progress.",
+      "answer": 4
+    },
+    {
+      "question": "What isn’t part of emotional intelligence?",
+      "option1": "The ability to control our own emotions",
+      "option2": "The ability identify, assess, and influence our own emotions",
+      "option3": "The ability to identify, assess, and influence the emotions of other people",
+      "option4": "The ability to control other people’s emotions",
+      "answer": 4
+    },
+    {
+      "question": "The concept of knowledge sharing on an agile project is best characterized as:",
+      "option1": "Encouraged where possible and where the team shows an interest",
+      "option2": "Central to many agile practices",
+      "option3": "Undertaken if there is time left at the end of an iteration",
+      "option4": "Undertaken principally through stand-up meetings",
+      "answer": 2
+    },
+    {
+      "question": "Wireframe models help agile teams:",
+      "option1": "Test designs",
+      "option2": "Confirm designs",
+      "option3": "Configure reports",
+      "option4": "Track velocity",
+      "answer": 2
+    },
+    {
+      "question": "Which of the following statements is true for measuring team velocity?",
+      "option1": "Velocity is not accurate when there are meetings that cut into development time",
+      "option2": "Velocity measurements are disrupted when some project resources are part-time",
+      "option3": "Velocity tracking does not allow for scope changes during the project",
+      "option4": "Velocity measurements account for work done and disruptions on the project",
+      "answer": 2
+    },
+    {
+      "question": "The gulf of evaluation refers to what?",
+      "option1": "The gap between what the project owner knows and what the testers know",
+      "option2": "The mismatch between the customer’s vision of the solution and how the developers understand it",
+      "option3": "The difference between what the ScrumMastertells the team to do and what they actually produce",
+      "option4": "The disparity between what the customer wants and what they really need",
+      "answer": 2
+    },
+    {
+      "question": "Agile modeling aims to:",
+      "option1": "Capture the intent of the design in a barely sufficient way",
+      "option2": "Capture the intent of the deisgnin a comprehensive way",
+      "option3": "Deliver actionable documentation for the project",
+      "option4": "Leverage the fact that the value of modeling increases with time spent on it",
+      "answer": 1
+    },
+    {
+      "question": "Your team seems to unproductively debate even trivial decisions. To help them make collective decisions, you could try using:",
+      "option1": "Fist-of-five voting",
+      "option2": "Bare fist fighting",
+      "option3": "Planning poker",
+      "option4": "Brainstorming",
+      "answer": 1
+    },
+    {
+      "question": "Which of the circumstances outlined below would be a good fit for the use of wireframes?",
+      "option1": "When the conversation is centered on the high-level flow of a process",
+      "option2": "When we are trying to better understand stakeholder demographics and general needs",
+      "option3": "When we need to capture the high-level objective of a specific document",
+      "option4": "When we want to communicate what features will be included in the next release",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following benefits isn’t part of the agile value proposition?",
+      "option1": "Reduced risk at the end of the project",
+      "option2": "Increased visibility throughout the project",
+      "option3": "Increased adaptability during planning",
+      "option4": "Earlier delivery of business value",
+      "answer": 1
     }
 ];
